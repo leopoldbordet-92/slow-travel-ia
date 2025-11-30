@@ -1,0 +1,5 @@
+google-genai
+pandas
+scikit-learn
+nltk
+streamlit
